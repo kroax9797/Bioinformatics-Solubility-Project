@@ -1,6 +1,6 @@
 numpy
 pandas
-pickle
+pickleshare
 streamlit
 rdkit
 Pillow
