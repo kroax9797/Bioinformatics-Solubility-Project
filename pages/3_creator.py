@@ -3,7 +3,7 @@ from PIL import Image
 
 st.header("Tejas Mhaiskar")
 
-image = Image.open('pages\photome.jpg')
+image = Image.open('pages/photome.jpg')
 st.image(image , use_column_width=True)
 
 st.write("""
