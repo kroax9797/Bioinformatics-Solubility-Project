@@ -1,0 +1,6 @@
+streamlit
+numpy 
+pandas
+pickleshare
+Pillow
+rdkit
