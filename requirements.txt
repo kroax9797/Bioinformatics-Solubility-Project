@@ -4,3 +4,4 @@ pandas
 pickleshare
 Pillow
 rdkit
+scikit-learn
