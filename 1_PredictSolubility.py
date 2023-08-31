@@ -52,7 +52,7 @@ import streamlit as st
 
 left , right =st.columns(2)
 with left : 
-    image = Image.open('molecular-solubility-predictor-logo-zip-file\png\logo-black.png')
+    image = Image.open('molecular-solubility-predictor-logo-zip-file/png/logo-black.png')
     st.image(image  , width = 200)
 with right : 
     st.header("Molecular Solubility Prediction App")
