@@ -3,7 +3,7 @@ import pickle
 from PIL import Image
 
 st.header("Our Model : Linear Regression")
-image = Image.open('pages\\visualise.png')
+image = Image.open('pages/visualise.png')
 st.image(image , use_column_width=True , caption='Model Visualisation')
 
 
